@@ -6,7 +6,6 @@ public class Company extends Client
 	{
 		System.out.println("company name is guru");
 		System.out.println("company name is guru");
-		System.out.println("company name is guru");
 	}
 	
 	public static void main(String[] args) 
